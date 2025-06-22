@@ -55,7 +55,7 @@ java Contador
 
 ---
 
-💬 *Desenvolvido com dedicação por um estudante Java em jornada constante de evolução.*  
+💬 *Desenvolvido com dedicação por uma estudante Java em jornada constante de evolução.*  
 [são 2 da manhã do dia 22/06/2025]
 
 
