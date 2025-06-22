@@ -11,26 +11,11 @@ O objetivo é criar um programa que receba **dois parâmetros inteiros** do usu�
 
 
 ### Exemplo 1:
-Entrada:
-Digite o primeiro parâmetro: 3 
-Digite o segundo parâmetro: 10
 
-Saída:
-Imprimindo o número 1
-Imprimindo o número 2
-Imprimindo o número 3
-Imprimindo o número 4
-Imprimindo o número 5
-Imprimindo o número 6
-Imprimindo o número 7
+![EXEMPLO1](/Exemplo1-desafio-controle-fluxo.png)
 
 ### Exemplo 2:
-Entrada:
-Digite o primeiro parâmetro: 3 
-Digite o segundo parâmetro: 1
-
-Saída:
-O segundo parâmetro deve ser maior que o primeiro
+![EXEMPLO2](/Exemplo2-desafio-controle-fluxo.png)
 
 ## 🛠️ Estrutura do Projeto
 
